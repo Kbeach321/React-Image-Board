@@ -1,0 +1,10 @@
+.corgi_contents {
+  text-align: center;
+  border: 2px solid;
+  width: 80%;
+  margin: 0 auto 10px auto; }
+
+.corgi_contents img {
+  height: 400px;
+  width: auto;
+  margin-top: 10px; }
