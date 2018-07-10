@@ -5,6 +5,11 @@
   margin: 0 auto 10px auto; }
 
 .corgi_contents img {
-  height: 400px;
-  width: auto;
+  height: 40vw;
+  width: 100%;
   margin-top: 10px; }
+
+.image_container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0px auto; }

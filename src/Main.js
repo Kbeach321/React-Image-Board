@@ -49,9 +49,11 @@ class Main extends Component {
     let corgis = corgiImages.map(function(corgi){
       return(
         <div key={corgi.id} class="corgi_contents">
-      <img src={corgi.link}/>
-      <p class="description"> {corgi.description} </p>
-      </div>
+          <div class="image_container">
+            <img src={corgi.link}/>
+          </div>
+          <p class="description"> {corgi.description} </p>
+        </div>
       )
     });
     return(
