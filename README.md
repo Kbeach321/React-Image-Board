@@ -1,4 +1,4 @@
-React Image Board!
+#React Image Board!
 
 Learning Objectives:
 
